@@ -16,7 +16,7 @@
 
 # DATA3:the PR. event of Haidilao   
 <br/><br/>  
-> [This case is about the famous commpany Haidilao which is popular for its hot pot. In July 2017, one of its shop was exposed for the condition problem in its kichen in Beijing. As Haidilao has been thought as one of the best company for its service and condition. I want show how this company to solve this problem.](http://mydatas.github.io)
+> [This case is about the famous commpany Haidilao which is popular for its hot pot. In July 2017, one of its shop was exposed for the condition problem in its kichen in Beijing. As Haidilao has been thought as one of the best company for its service and condition. I want show how this company to solve this problem.](https://github.com/yangsc2222/mydatas.github.io/blob/master/CASES/CASE3.MD)
     
 <br/><br/><br/><br/><br/><br/><br/><br/>  
 
