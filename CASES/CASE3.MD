@@ -1,10 +1,9 @@
 # CASE1: PR. EVENT OF HAIDILAO
   <br/><br/>  
-   
-![](the PR. event of haidilao1)   
-![](the PR. event of haidilao2)   
-![](the PR. event of haidilao3)   
-
+    
+<img src="miage/the PR event haidilao1.jpg" height="500" width="350">   
+<img src="miage/the PR event haidilao2.jpg" height="500" width="350">   
+<img src="miage/the PR event haidilao3.jpg" height="500" width="350">   
 
 <br/><br/><br/><br/><br/><br/><br/><br/>  
            
