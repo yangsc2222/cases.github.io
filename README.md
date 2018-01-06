@@ -3,9 +3,8 @@
  <center><b><font size="6">Some datas in my research</font></b></center><br/><br/> <br/><br/>      
    
 # DATA1:police and driver   
-   <br/><br/>  
-<center><iframe frameborder="0" width="640" height="498" src="http://v.youku.com/v_show/id_XMjg5MzQ3NTQ2OA==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2" allowfullscreen=""></iframe></center><br/><br/><br/><br/><br/><br/><br/><br/>  
-            
+[This case is about a resolution between a driver and a police in traffic accident in Shandong province in China. This case is wide spreaded in internet. I see it as an interesting case of argumentation from the rhetorical perspectinve. I will point out the importance of contextual components in this case.] (http://v.youku.com/v_show/id_XMjg5MzQ3NTQ2OA==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
+           
                   
 # DATA2:the AD. of Didi   
 
