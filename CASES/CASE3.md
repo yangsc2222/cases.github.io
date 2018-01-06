@@ -2,9 +2,9 @@
 
   <br/><br/>  
    
-![](https://github.com/yangsc2222/mydatas.github.io/blob/master/image/the%20PR%20event%20of%20haidilao1.jp)
-<img src="imgae/the PR event of haidilao2.jpg.jpg" height="500" width="350">   
-<img src="imgae/the PR event of haidilao1.jpg.jpg3" height="500" width="350">   
+![](https://github.com/yangsc2222/mydatas.github.io/blob/master/image/the%20PR%20event%20of%20haidilao1.jpg)
+![](https://github.com/yangsc2222/mydatas.github.io/blob/master/image/the%20PR%20event%20of%20haidilao2.jpg)
+![](https://github.com/yangsc2222/mydatas.github.io/blob/master/image/the%20PR%20event%20of%20haidilao3.jpg)
 
 <br/><br/><br/><br/><br/><br/><br/><br/>  
            
