@@ -2,26 +2,26 @@
 # Some datas in my research
   <br/><br/> <br/><br/>      
    
-# DATA1:police and driver   
+# CASE1:police and driver   
 > [This case is about a resolution between a driver and a police in traffic accident in Shandong province in China. This case is wide spreaded in internet. I see it as an interesting case of argumentation from the rhetorical perspectinve. I will point out the importance of contextual components in this case.](http://v.youku.com/v_show/id_XMjg5MzQ3NTQ2OA==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
             
 <br/><br/><br/><br/><br/><br/><br/><br/>   
                   
-# DATA2:the AD. of Didi   
+# CASE2:the AD. of Didi   
 <br/><br/>  
 > [This case is an advertisement of DIDI in China. I find it is very interesting analysised by the strategic maneuvering theory. But I want to point out, the culture component is also very important in this case.](http://v.youku.com/v_show/id_XMjgwNjU2NzQ5Ng==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
     
 <br/><br/><br/><br/><br/><br/><br/><br/>  
 
 
-# DATA3:the PR. event of Haidilao   
+# CASE3:the PR. event of Haidilao   
 <br/><br/>  
-> <a href="https://github.com/yangsc2222/mydatas.github.io/blob/master/CASES/CASE3.md">This case is about the famous commpany Haidilao which is popular for its hot pot. In July 2017, one of its shop was exposed for the condition problem in its kichen in Beijing. As Haidilao has been thought as one of the best company for its service and condition. I want show how this company to solve this problem.</a>
+> <a href="https://github.com/yangsc2222/mydatas.github.io/blob/master/case3.html">This case is about the famous commpany Haidilao which is popular for its hot pot. In July 2017, one of its shop was exposed for the condition problem in its kichen in Beijing. As Haidilao has been thought as one of the best company for its service and condition. I want show how this company to solve this problem.</a>
     
     
 <h1>case3:the PR. event of Haidilao</h1>   
 <br/><br/>  
-<a href="case3">This case is about the famous commpany Haidilao which is popular for its hot pot. In July 2017, one of its shop was exposed for the condition problem in its kichen in Beijing. As Haidilao has been thought as one of the best company for its service and condition. I want show how this company to solve this problem.</a>
+> <a href="case3">This case is about the famous commpany Haidilao which is popular for its hot pot. In July 2017, one of its shop was exposed for the condition problem in its kichen in Beijing. As Haidilao has been thought as one of the best company for its service and condition. I want show how this company to solve this problem.</a>
     
 <br/><br/><br/><br/><br/><br/><br/><br/>  
     
