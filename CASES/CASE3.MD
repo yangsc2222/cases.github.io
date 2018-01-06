@@ -1,9 +1,10 @@
 # CASE1: PR. EVENT OF HAIDILAO
-  <br/><br/>  
+ 
+ <br/><br/>  
     
-<img src="image/the PR event of haidilao1.jpg" height="500" width="350">   
-<img src="image/the PR event of haidilao2.jpg" height="500" width="350">   
-<img src="image/the PR event of haidilao3.jpg" height="500" width="350">   
+<img src="https://github.com/yangsc2222/mydatas.github.io/blob/master/image/the%20PR%20event%20of%20haidilao1.jpg" height="500" width="350">   
+<img src="https://github.com/yangsc2222/mydatas.github.io/blob/master/image/the%20PR%20event%20of%20haidilao2.jpg" height="500" width="350">   
+<img src="https://github.com/yangsc2222/mydatas.github.io/blob/master/image/the%20PR%20event%20of%20haidilao3.jpg" height="500" width="350">   
 
 <br/><br/><br/><br/><br/><br/><br/><br/>  
            
