@@ -1,6 +1,4 @@
-CASE2: THE AD. OF DIDI
-
-
+# CASE2: THE AD. OF DIDI
 
  
 
