@@ -19,7 +19,7 @@
 <br/><br/><br/><br/><br/><br/><br/><br/>  
 
       
-    <html> <hr color="ff0000">    </html>
+ <content><hr color="ff0000"></content>
      
 <center>NOTICE: all the things are from internet, just use for study. Please donot for any commercial purpose!</center>  
 <center>@关于这是<a href="http://yangshuchao.com"><font color="0000ff">杨述超的主页 Young YANG's homepage</font></a></center> 
