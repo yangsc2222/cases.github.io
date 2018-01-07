@@ -14,7 +14,7 @@
 <br/><br/><br/><br/>
 
 # CASE3:the PR. event of Haidilao   
-> <a href="case3">This case is about the famous commpany Haidilao which is popular for its hot pot. In July 2017, one of its shop was exposed for the condition problem in its kichen in Beijing. As Haidilao has been thought as one of the best company for its service and condition. I want show how this company to solve this problem.(Click here for more.)</a>
+> <a href="case3">This case is about the famous commpany Haidilao which is popular for its hot pot. In July 2017, one of its shop was exposed for the condition problem in its kichen in Beijing. As Haidilao has been thought as one of the best company for its service and condition. I want to show how this company to solve PR. event.(Click here for more.)</a>
 
     
 <br/><br/><br/><br/><br/><br/><br/><br/>  
