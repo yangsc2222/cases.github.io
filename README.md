@@ -1,6 +1,6 @@
       
 # <font color="#ff0000">SOME INTERESTING CASES</font>
-<img src="mypic/清明上河图.jpg">
+<img src="image/清明上河图.jpg">
   <br/><br/> <br/>   
  
 # CASE1:police and driver   
