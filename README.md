@@ -1,7 +1,8 @@
       
-# <font color="#ff0000">SOME DATAS IN MY RESEARCH</font>
+# <font color="#ff0000">SOME INTERESTING CASES</font>
+<img src="mypic/清明上河图.jpg">
   <br/><br/> <br/>   
-   
+ 
 # CASE1:police and driver   
 > [This case is about a resolution between a driver and a police in traffic accident in Shandong province in China. This case is wide spreaded in internet. I see it as an interesting case of argumentation from the rhetorical perspectinve. I will point out the importance of contextual components in this case.](http://v.youku.com/v_show/id_XMjg5MzQ3NTQ2OA==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
             
