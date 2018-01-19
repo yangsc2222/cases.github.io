@@ -9,7 +9,8 @@
 <br/><br/><br/>
                   
 # CASE2:the AD. of DiDi   
-> [This case is an advertisement of DIDI in China. I find it is very interesting analysised by the strategic maneuvering theory. But I want to point out, the culture component is also very important in this case.(Click here for more.)](http://v.youku.com/v_show/id_XMjgwNjU2NzQ5Ng==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
+These cases are a series of advertisements of car-sharing company Didi in China. They are very interesting analysised by the strategic maneuvering theory.
+> [advertisement about security (Click here for more.)](https://v.qq.com/x/page/v05052qkpmu.html)
     
 <br/><br/><br/><br/>
 
