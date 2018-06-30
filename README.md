@@ -7,15 +7,22 @@
 > [This case is about a conflict between a driver and a police in a traffic accident in Shandong province, China. This case is wide spreaded in internet.(Click here for more.)](http://v.youku.com/v_show/id_XMjg5MzQ3NTQ2OA==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
             
 <br/><br/><br/>
-                  
-# CASE2:the AD. of DiDi   
+              
+  # CASE2:the traffic light   
+This case is about how do the people understand the traffic rule in a particular situation.
+> [Click here for the video.](http://v.youku.com/v_show/id_XMzY5NTU5OTk2MA==.html)
+    
+<br/><br/><br/><br/>
+                 
+                 
+# CASE3:the AD. of DiDi   
 These cases are a series of advertisements of car-sharing company Didi in China. They are very interesting analysised by the strategic maneuvering theory.
 > [advertisement about security (Click here for more.)](https://v.qq.com/x/page/v05052qkpmu.html)
     
 <br/><br/><br/><br/>
 
-# CASE3:the PR. event of Haidilao   
-> <a href="case3">This case is about the famous commpany Haidilao which is popular for its hot pot. In July 2017, one of its shop was exposed for the condition problem in its kichen in Beijing. As Haidilao has been thought as one of the best company for its service and condition. I want to show how this company to solve PR. event.(Click here for more.)</a>
+# CASE4:the PR. event of Haidilao   
+> <a href="case4">This case is about the famous commpany Haidilao which is popular for its hot pot. In July 2017, one of its shop was exposed for the condition problem in its kichen in Beijing. As Haidilao has been thought as one of the best company for its service and condition. I want to show how this company to solve PR. event.(Click here for more.)</a>
 
     
 <br/><br/><br/><br/><br/><br/><br/><br/>  
