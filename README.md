@@ -4,7 +4,7 @@
   <br/><br/> <br/>   
  
 # CASE1:police and driver   
-> [This case is about a conflict between a driver and a police in a traffic accident in Shandong province, China. This case is wide spreaded in internet.(Click here for more.)](http://v.youku.com/v_show/id_XMjg5MzQ3NTQ2OA==.html?spm=a2h0k.8191407.0.0&from=s1.8-1-1.2)
+> [This case is about a conflict between a driver and a police in a traffic accident in Shandong province, China. This case is wide spreaded in internet.(Click here for more.)](https://v.youku.com/v_show/id_XMzg4MTY2NDI4OA==.html?spm=a2h0k.11417342.soresults.dtitle)
             
 <br/><br/><br/>
               
