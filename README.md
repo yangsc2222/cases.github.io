@@ -4,12 +4,15 @@
   <br/><br/> <br/>   
  
 # CASE1:police and driver   
-> [This case is about a conflict between a driver and a police in a traffic accident in Shandong province, China. This case is wide spreaded in internet.(Click here for more.)](https://v.youku.com/v_show/id_XMzg4MTY2NDI4OA==.html?spm=a2h0k.11417342.soresults.dtitle)
-            
+> This case is about a conflict between a driver and a police in a traffic accident in Shandong province, China. This case is wide spreaded in internet.
+<br>
+[Click here for the video.](https://v.youku.com/v_show/id_XMzg4MTY2NDI4OA==.html?spm=a2h0k.11417342.soresults.dtitle)
+<br>
+<a href="commentofcase1">Click here for the comments.</a>
 <br/><br/><br/>
               
 # CASE2:the traffic light   
-> This case is about how do the people understand the traffic rule in a particular situation.
+This case is about how do the people understand the traffic rule in a particular situation.
 [Click here for the video.](http://v.youku.com/v_show/id_XMzY5NTU5OTk2MA==.html)
     
 <br/><br/><br/><br/>
@@ -22,7 +25,9 @@ These cases are a series of advertisements of car-sharing company Didi in China.
 <br/><br/><br/><br/>
 
 # CASE4:the PR. event of Haidilao   
-> <a href="case4">This case is about the famous commpany Haidilao which is popular for its hot pot. In July 2017, one of its shop was exposed for the condition problem in its kichen in Beijing. As Haidilao has been thought as one of the best company for its service and condition. I want to show how this company to solve PR. event.(Click here for more.)</a>
+This case is about the famous commpany Haidilao which is popular for its hot pot. In July 2017, one of its shop was exposed for the condition problem in its kichen in Beijing. As Haidilao has been thought as one of the best company for its service and condition. I want to show how this company to solve PR. event.
+<br>
+<a href="case4">Click here for more.</a>
 
     
 <br/><br/><br/><br/><br/><br/><br/><br/>  
