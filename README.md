@@ -9,9 +9,8 @@
 <br/><br/><br/>
               
 # CASE2:the traffic light   
-This case is about how do the people understand the traffic rule in a particular situation.
- ![][https://github.com/yangsc2222/yangsc2222.github.io/blob/master/the%20crossstreet.jpg]
-> [Click here for the video.](http://v.youku.com/v_show/id_XMzY5NTU5OTk2MA==.html)
+> This case is about how do the people understand the traffic rule in a particular situation.
+[Click here for the video.](http://v.youku.com/v_show/id_XMzY5NTU5OTk2MA==.html)
     
 <br/><br/><br/><br/>
                  
