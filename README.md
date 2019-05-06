@@ -4,7 +4,7 @@
   <br/><br/> <br/>   
  
 # CASE1:police and driver   
-> This case is about a conflict between a driver and a police in a traffic accident in Shandong province, China. This case is wide spreaded in internet.
+This case is about a conflict between a driver and a police in a traffic accident in Shandong province, China. This case is wide spreaded in internet.
 <br>
 [Click here for the video.](https://v.youku.com/v_show/id_XMzg4MTY2NDI4OA==.html?spm=a2h0k.11417342.soresults.dtitle)
 <br>
@@ -13,6 +13,7 @@
               
 # CASE2:the traffic light   
 This case is about how do the people understand the traffic rule in a particular situation.
+<br>
 [Click here for the video.](http://v.youku.com/v_show/id_XMzY5NTU5OTk2MA==.html)
     
 <br/><br/><br/><br/>
@@ -20,7 +21,8 @@ This case is about how do the people understand the traffic rule in a particular
                  
 # CASE3:the AD. of DiDi   
 These cases are a series of advertisements of car-sharing company Didi in China. They are very interesting analysised by the strategic maneuvering theory.
-> [advertisement about security (Click here for more.)](https://v.qq.com/x/page/v05052qkpmu.html)
+<br>
+[Click here for more.](https://v.qq.com/x/page/v05052qkpmu.html)
     
 <br/><br/><br/><br/>
 
